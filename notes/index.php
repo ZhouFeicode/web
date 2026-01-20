@@ -57,7 +57,7 @@ $other[]=$row;
 </p>
 <p id='icon2'>
      <img id='edit' src="image/Edit.png" width="33px" height="33px">
-    <a href="login.html"><img src="image/user.png" width="40px" height="40px"></a>
+    <a href="index.html"><img src="image/user.png" width="40px" height="40px"></a>
 </p>
 </div>   
 <div id='table'>
@@ -165,4 +165,5 @@ endforeach;
 </form>
 </div>
 </body>
+
 </html>
